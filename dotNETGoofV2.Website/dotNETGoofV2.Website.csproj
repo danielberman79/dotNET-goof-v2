@@ -29,5 +29,6 @@
     <PackageReference Include="System.Text.Encodings.Web" Version="4.5.1" />
     <PackageReference Include="TinyMCE" Version="4.8.2" />
     <PackageReference Include="Wire" Version="1.0.0" />
+    <PackageReference Include="handsontable" Version="9.0.2" />
   </ItemGroup>
 </Project>
